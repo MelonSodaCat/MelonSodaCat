@@ -1,5 +1,5 @@
 ### ✨ About Me ✨
-I'm a Engineer student at [Universidad de Chile](https://uchile.cl) in the [CS Department](https://www.dcc.uchile.cl) of the Faculty of Mathematics and Physical Sciences [FCFM](https://ingenieria.uchile.cl)
+I'm an Engineer student at [Universidad de Chile](https://uchile.cl) in the [CS Department](https://www.dcc.uchile.cl) of the Faculty of Mathematics and Physical Sciences [FCFM](https://ingenieria.uchile.cl)
 
 <!--
 **MelonSodaCat/MelonSodaCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
